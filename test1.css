@@ -1,3 +1,3 @@
 [data-testid="pinboard-header"]{
-  display:none;
+  display:none !important;
 }
